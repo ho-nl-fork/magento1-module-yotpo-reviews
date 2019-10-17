@@ -17,11 +17,12 @@
                     <product_list>Yotpo_Yotpo_Block_Catalog_Product_List</product_list>
                 </rewrite>
             </catalog>
-            <catalog>
+            <!-- This rewrite was removed as it seem to conflict with reach-digital code. -->
+            <!--catalog>
                 <rewrite>
                     <product_view>Yotpo_Yotpo_Block_Catalog_Product_View</product_view>
                 </rewrite>
-            </catalog>
+            </catalog-->
         </blocks>
         <models>
             <yotpo>
